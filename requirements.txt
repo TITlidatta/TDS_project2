@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+bs4
+pdfplumber
+pillow
+boto3
+botocore
+fuzzywuzzy
+python-Levenshtein
+markdownify
+pydantic
+tiktoken
